@@ -1,1 +1,1 @@
-C:\Unity\EnemyAINavManager
+C:\Users\EmreM\OneDrive\Belgeler\GitHub\EnemyAIUnity\EnemyAINavManager
